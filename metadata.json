@@ -1,0 +1,6 @@
+{
+  "name": "Поле чудес: Испанский Будущий",
+  "description": "3D-приложение «Поле Чудес» для двух игроков с вращающимся барабаном и вопросами на спряжение испанских глаголов во временах Futuro Simple и Futuro Perfecto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
